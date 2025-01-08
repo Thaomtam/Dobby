@@ -6,7 +6,7 @@ Dobby a lightweight, multi-platform, multi-architecture exploit hook framework.
 
 - Minimal and modular library
 - Multi-platform support(Windows/macOS/iOS/Android/Linux)
-- Multiple architecture support(X86, X86-64, ARM, ARM64)
+- Multiple architecture support(X86, X86-64, ARM, ARM64) x
 
 ## Compile
 
